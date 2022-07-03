@@ -6,8 +6,8 @@ Enough to enter a command into the console: danlib_hud_client  to take advantage
 
 This addon is still being finalized and will be brought to perfection.  
 Translated languages at this point: 
-  English - # 100% 
-  Russian - # 100%  
+  English - 100% 
+  Russian - 100%  
   
 My Discord: denchik#7957
 My Discord Server: https://discord.gg/CND6B5sH3j  
