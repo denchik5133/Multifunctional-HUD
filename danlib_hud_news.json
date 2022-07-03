@@ -1,0 +1,18 @@
+{
+    "danlib_hud_news": [
+        {
+            "news_title": "Update on 03.07.22",
+            "news_description": "In development.",
+            "new_news": true,
+            "news_spoiler": true,
+            "off_on_news": true
+        },
+        {
+            "news_title": "News",
+            "news_description": "The addon is currently being tested and finalized. After a few tests, the addon will be posted on Steam Workshop and GitHub.",
+            "new_news": true,
+            "news_spoiler": false,
+            "off_on_news": true
+        }
+    ]
+}
