@@ -1,4 +1,4 @@
-# DanLib-Simple-Hud
+# Multifunctional HUD
 A simple looking HUD. All the necessary settings for the player are in the game.   
 
 Just enter the command into the chat: !danlib_hud / danlib_hud  
